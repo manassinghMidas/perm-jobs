@@ -2,8 +2,7 @@ import React, { useMemo, useState, useEffect } from "react";
 import { MaterialReactTable } from "material-react-table";
 import type { MRT_ColumnDef } from "material-react-table";
 import { Box } from "@mui/material";
-import { Button, Tooltip } from "@mui/material";
-import { Grid, GridProps } from "@mui/material";
+import { Tooltip } from "@mui/material";
 import Loader3 from "../components/common/Loader3";
 
 
